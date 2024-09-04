@@ -18,11 +18,15 @@ assignees:
 
 status-website:
   cname: status.pfadfindenby.de
+
   theme: night
   logoUrl: https://bayern.pfadfinden.de/_assets/d7ba28ebe12d82c738ecb5d8b9db3979/Build/Media/bundeszeichen-DXEtWgM-.svg
+  favicon: https://bayern.pfadfinden.de/favicon.ico
+
   name: BdP LV Bayern IT Status
   introTitle: "**Status** für die **IT-Dienste** des Landesverbandes Bayern im Bund der Pfadfinderinnen und Pfadfinder"
   introMessage: ""
+
   navbar:
     - title: Status
       href: /
