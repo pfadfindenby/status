@@ -16,10 +16,8 @@ assignees:
   - jzbor
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.pfadfindenby.de
-  # baseUrl: /your-repo-name
+  theme: night
   logoUrl: https://bayern.pfadfinden.de/_assets/d7ba28ebe12d82c738ecb5d8b9db3979/Build/Media/bundeszeichen-DXEtWgM-.svg
   name: BdP LV Bayern IT Status
   introTitle: "**Status** für die **IT-Dienste** des Landesverbandes Bayern im Bund der Pfadfinderinnen und Pfadfinder"
