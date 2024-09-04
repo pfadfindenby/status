@@ -91,7 +91,6 @@ i18n:
   rateLimitExceededSaveToken: Token speichern
   errorTitle: Ein Fehler ist aufgetreten
   errorIntro: Bei dem Versuch die aktuellen Statusinformationen zu bekommen ist ein Fehler aufgetreten.
-    An error occurred in trying to get the latest status details.
   errorText: Du kannst es in ein paar Minuten nochmal probieren.
   errorHome: Zurück zur Startseite
   pastScheduledMaintenance: Vergangene Wartungen
