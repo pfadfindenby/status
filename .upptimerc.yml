@@ -18,7 +18,11 @@ sites:
     url: https://monitoring.pfadfinden.de
 
 assignees:
+  - KFBGit
+  - cowboyxup
   - jzbor
+  - suuppl
+  - zamomin0
 
 status-website:
   cname: status.pfadfindenby.de
