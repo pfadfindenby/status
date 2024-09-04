@@ -15,7 +15,7 @@ sites:
   - name: Homepage
     url: https://bayern.pfadfinden.de
   - name: Monitoring
-    url: https://monitoring.pfadfinden.de/login
+    url: https://monitoring.pfadfindenby.de/login
 
 assignees:
   - KFBGit
