@@ -82,9 +82,9 @@ i18n:
   rateLimitExceededWhatDoesErrorMean: Was bedeutet dieser Fehler?
   rateLimitExceededErrorMeaning: Diese Webseite benutzt die GitHub-Schnittstelle, um Echtzeitdaten über den Status unserer Web-Dienste abzufragen. Standardmäßig erlaubt GitHub 60 Anfragen pro Stunde und IP-Adresse, welche nun aufgebraucht sind.
   rateLimitExceededErrorHowCanFix: Was kann ich tun?
-  rateLimitExceededErrorFix: "Entweder du wartest eine Stunde, bis das Limit wieder zurückgesetzt wurde, oder du hinterlegst deinen GitHub Personal Access Token ein, welcher dir weitere 5.000 Anfragen pro Stunde erlaubt."
+  rateLimitExceededErrorFix: "Entweder du wartest eine Stunde, bis das Limit wieder zurückgesetzt wurde, oder du hinterlegst deinen Personal Access Token für GitHub, welcher dir weitere 5.000 Anfragen pro Stunde erlaubt."
   rateLimitExceededGeneratePAT: Finde heraus, wie man einen Personal Access Token erstellt
-  rateLimitExceededHasSet: Du hast einen Personal Access Token hinterlegt.
+  rateLimitExceededHasSet: Du hast einen Personal Access Token bereits hinterlegt.
   rateLimitExceededRemoveToken: Token entfernen
   rateLimitExceededGitHubPAT: GitHub Personal Access Token
   rateLimitExceededCopyPastePAT: Token kopieren und einfügen
