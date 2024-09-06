@@ -1,7 +1,7 @@
 url: https://auth.pfadfindenby.de
-status: down
-code: 503
-responseTime: 442
-lastUpdated: 2024-09-06T09:46:14.648Z
+status: up
+code: 200
+responseTime: 775
+lastUpdated: 2024-09-06T09:51:44.505Z
 startTime: 2024-09-04T19:27:39.443Z
 generator: Upptime <https://github.com/upptime/upptime>
