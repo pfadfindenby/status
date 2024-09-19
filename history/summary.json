@@ -4,18 +4,19 @@
     "url": "https://wiki.pfadfindenby.de",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.pfadfindenby.de.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.75%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.88%",
     "time": 789,
     "timeDay": 686,
-    "timeWeek": 755,
+    "timeWeek": 737,
     "timeMonth": 789,
     "timeYear": 789,
     "dailyMinutesDown": {
+      "2024-09-19": 1,
       "2024-09-12": 26
     }
   },
@@ -42,18 +43,20 @@
     "url": "https://auth.pfadfindenby.de",
     "icon": "https://icons.duckduckgo.com/ip3/auth.pfadfindenby.de.ico",
     "slug": "zentraler-login",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 905,
     "timeDay": 730,
-    "timeWeek": 869,
+    "timeWeek": 776,
     "timeMonth": 905,
     "timeYear": 905,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-19": 0
+    }
   },
   {
     "name": "Online-Office",
