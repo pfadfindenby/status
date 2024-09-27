@@ -17,12 +17,6 @@ sites:
   - name: Monitoring
     url: https://monitoring.pfadfindenby.de/login
 
-assignees:
-  - KFBGit
-  - cowboyxup
-  - jzbor
-  - suuppl
-  - zamomin0
 
 status-website:
   cname: status.pfadfindenby.de
