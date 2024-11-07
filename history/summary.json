@@ -25,19 +25,19 @@
     "url": "https://cloud.pfadfindenby.de/status.php",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.pfadfindenby.de.ico",
     "slug": "cloud",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 807,
-    "timeDay": 495,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.52%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.96%",
+    "time": 806,
+    "timeDay": 619,
     "timeWeek": 744,
-    "timeMonth": 796,
-    "timeYear": 807,
+    "timeMonth": 794,
+    "timeYear": 806,
     "dailyMinutesDown": {
-      "2024-11-07": 0
+      "2024-11-07": 36
     }
   },
   {
