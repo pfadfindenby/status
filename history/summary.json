@@ -25,9 +25,9 @@
     "url": "https://cloud.pfadfindenby.de/status.php",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.pfadfindenby.de.ico",
     "slug": "cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 744,
     "timeMonth": 796,
     "timeYear": 807,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-07": 0
+    }
   },
   {
     "name": "Zentraler Login",
