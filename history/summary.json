@@ -65,19 +65,19 @@
     "url": "https://office.pfadfindenby.de",
     "icon": "https://icons.duckduckgo.com/ip3/office.pfadfindenby.de.ico",
     "slug": "online-office",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 466,
     "timeDay": 460,
     "timeWeek": 430,
     "timeMonth": 463,
     "timeYear": 466,
     "dailyMinutesDown": {
-      "2024-11-09": 5
+      "2024-11-09": 0
     }
   },
   {
@@ -103,19 +103,19 @@
     "url": "https://monitoring.pfadfindenby.de/login",
     "icon": "https://icons.duckduckgo.com/ip3/monitoring.pfadfindenby.de.ico",
     "slug": "monitoring",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 705,
     "timeDay": 749,
     "timeWeek": 690,
     "timeMonth": 697,
     "timeYear": 705,
     "dailyMinutesDown": {
-      "2024-11-09": 5
+      "2024-11-09": 0
     }
   }
 ]
