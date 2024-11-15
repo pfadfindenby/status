@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 871,
-    "timeDay": 734,
-    "timeWeek": 998,
-    "timeMonth": 851,
-    "timeYear": 871,
+    "time": 872,
+    "timeDay": 1033,
+    "timeWeek": 993,
+    "timeMonth": 858,
+    "timeYear": 872,
     "dailyMinutesDown": {
       "2024-10-01": 16,
       "2024-09-12": 26
@@ -26,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.pfadfindenby.de.ico",
     "slug": "cloud",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.65%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.96%",
-    "time": 810,
-    "timeDay": 567,
-    "timeWeek": 836,
-    "timeMonth": 799,
-    "timeYear": 810,
+    "uptimeYear": "99.97%",
+    "time": 813,
+    "timeDay": 1114,
+    "timeWeek": 869,
+    "timeMonth": 805,
+    "timeYear": 813,
     "dailyMinutesDown": {
       "2024-11-07": 36
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 905,
-    "timeDay": 773,
-    "timeWeek": 1056,
-    "timeMonth": 908,
-    "timeYear": 905,
+    "time": 906,
+    "timeDay": 983,
+    "timeWeek": 1054,
+    "timeMonth": 913,
+    "timeYear": 906,
     "dailyMinutesDown": {
       "2024-10-01": 16
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 467,
-    "timeDay": 431,
-    "timeWeek": 478,
-    "timeMonth": 462,
-    "timeYear": 467,
+    "time": 469,
+    "timeDay": 658,
+    "timeWeek": 493,
+    "timeMonth": 468,
+    "timeYear": 469,
     "dailyMinutesDown": {
       "2024-11-09": 22
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 632,
-    "timeDay": 452,
-    "timeWeek": 705,
-    "timeMonth": 629,
-    "timeYear": 632,
+    "time": 633,
+    "timeDay": 742,
+    "timeWeek": 691,
+    "timeMonth": 634,
+    "timeYear": 633,
     "dailyMinutesDown": {}
   },
   {
@@ -109,11 +109,11 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 707,
-    "timeDay": 623,
-    "timeWeek": 759,
-    "timeMonth": 695,
-    "timeYear": 707,
+    "time": 709,
+    "timeDay": 853,
+    "timeWeek": 749,
+    "timeMonth": 700,
+    "timeYear": 709,
     "dailyMinutesDown": {
       "2024-11-09": 22
     }
