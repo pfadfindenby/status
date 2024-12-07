@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 948,
-    "timeDay": 786,
-    "timeWeek": 1499,
+    "time": 945,
+    "timeDay": 676,
+    "timeWeek": 1493,
     "timeMonth": 1167,
-    "timeYear": 948,
+    "timeYear": 945,
     "dailyMinutesDown": {
       "2024-10-01": 16,
       "2024-09-12": 26
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
-    "time": 814,
-    "timeDay": 760,
-    "timeWeek": 743,
-    "timeMonth": 820,
-    "timeYear": 814,
+    "time": 816,
+    "timeDay": 1086,
+    "timeWeek": 805,
+    "timeMonth": 838,
+    "timeYear": 816,
     "dailyMinutesDown": {
       "2024-11-07": 36
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 923,
-    "timeDay": 842,
-    "timeWeek": 916,
-    "timeMonth": 993,
-    "timeYear": 923,
+    "time": 922,
+    "timeDay": 786,
+    "timeWeek": 920,
+    "timeMonth": 994,
+    "timeYear": 922,
     "dailyMinutesDown": {
       "2024-10-01": 16
     }
@@ -72,9 +72,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 471,
-    "timeDay": 495,
-    "timeWeek": 465,
-    "timeMonth": 480,
+    "timeDay": 488,
+    "timeWeek": 475,
+    "timeMonth": 485,
     "timeYear": 471,
     "dailyMinutesDown": {
       "2024-11-09": 22
@@ -92,9 +92,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 633,
-    "timeDay": 601,
-    "timeWeek": 601,
-    "timeMonth": 650,
+    "timeDay": 620,
+    "timeWeek": 616,
+    "timeMonth": 654,
     "timeYear": 633,
     "dailyMinutesDown": {}
   },
@@ -109,11 +109,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 712,
-    "timeDay": 738,
-    "timeWeek": 689,
+    "time": 711,
+    "timeDay": 583,
+    "timeWeek": 685,
     "timeMonth": 734,
-    "timeYear": 712,
+    "timeYear": 711,
     "dailyMinutesDown": {
       "2024-11-09": 22
     }
