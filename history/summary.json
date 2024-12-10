@@ -4,10 +4,10 @@
     "url": "https://wiki.pfadfindenby.de",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.pfadfindenby.de.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 940,
@@ -16,6 +16,7 @@
     "timeMonth": 1148,
     "timeYear": 940,
     "dailyMinutesDown": {
+      "2024-12-10": 1,
       "2024-10-01": 16,
       "2024-09-12": 26
     }
@@ -45,9 +46,9 @@
     "url": "https://auth.pfadfindenby.de",
     "icon": "https://icons.duckduckgo.com/ip3/auth.pfadfindenby.de.ico",
     "slug": "zentraler-login",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -57,6 +58,7 @@
     "timeMonth": 987,
     "timeYear": 920,
     "dailyMinutesDown": {
+      "2024-12-10": 0,
       "2024-10-01": 16
     }
   },
