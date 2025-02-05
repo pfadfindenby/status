@@ -1,7 +1,7 @@
 url: https://cloud.pfadfindenby.de/status.php
-status: down
-code: 503
-responseTime: 1995
-lastUpdated: 2025-02-05T12:33:36.197Z
+status: up
+code: 200
+responseTime: 808
+lastUpdated: 2025-02-05T12:59:48.877Z
 startTime: 2024-09-04T18:45:09.883Z
 generator: Upptime <https://github.com/upptime/upptime>
