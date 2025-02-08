@@ -6,17 +6,16 @@
     "slug": "wiki",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.94%",
     "time": 972,
-    "timeDay": 3394,
+    "timeDay": 684,
     "timeWeek": 1504,
     "timeMonth": 1045,
     "timeYear": 972,
     "dailyMinutesDown": {
-      "2025-02-08": 10,
       "2025-01-26": 32,
       "2025-01-17": 31,
       "2024-12-10": 23,
@@ -52,17 +51,16 @@
     "slug": "zentraler-login",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 904,
-    "timeDay": 853,
+    "timeDay": 739,
     "timeWeek": 912,
     "timeMonth": 871,
     "timeYear": 904,
     "dailyMinutesDown": {
-      "2025-02-08": 10,
       "2024-12-10": 22,
       "2024-10-01": 16
     }
@@ -72,10 +70,10 @@
     "url": "https://office.pfadfindenby.de",
     "icon": "https://icons.duckduckgo.com/ip3/office.pfadfindenby.de.ico",
     "slug": "online-office",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 466,
@@ -84,6 +82,7 @@
     "timeMonth": 450,
     "timeYear": 466,
     "dailyMinutesDown": {
+      "2025-02-08": 1,
       "2024-11-09": 22
     }
   },
@@ -112,9 +111,9 @@
     "url": "https://monitoring.pfadfindenby.de/login",
     "icon": "https://icons.duckduckgo.com/ip3/monitoring.pfadfindenby.de.ico",
     "slug": "monitoring",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -124,6 +123,7 @@
     "timeMonth": 669,
     "timeYear": 699,
     "dailyMinutesDown": {
+      "2025-02-08": 0,
       "2024-11-09": 22
     }
   }
