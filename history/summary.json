@@ -81,11 +81,11 @@
     "url": "https://office.pfadfindenby.de",
     "icon": "https://icons.duckduckgo.com/ip3/office.pfadfindenby.de.ico",
     "slug": "online-office",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 486,
     "timeDay": 556,
@@ -93,6 +93,7 @@
     "timeMonth": 484,
     "timeYear": 488,
     "dailyMinutesDown": {
+      "2026-05-23": 5,
       "2026-04-20": 59
     }
   },
@@ -137,9 +138,9 @@
     "url": "https://monitoring.pfadfindenby.de/login",
     "icon": "https://icons.duckduckgo.com/ip3/monitoring.pfadfindenby.de.ico",
     "slug": "monitoring",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -149,6 +150,7 @@
     "timeMonth": 728,
     "timeYear": 729,
     "dailyMinutesDown": {
+      "2026-05-23": 0,
       "2026-04-20": 58,
       "2025-09-26": 16
     }
