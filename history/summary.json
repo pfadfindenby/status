@@ -103,17 +103,17 @@
     "url": "https://bayern.pfadfinden.de",
     "icon": "https://icons.duckduckgo.com/ip3/bayern.pfadfinden.de.ico",
     "slug": "homepage",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.87%",
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "83.16%",
+    "uptimeWeek": "97.59%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.82%",
     "time": 655,
-    "timeDay": 511,
-    "timeWeek": 599,
-    "timeMonth": 619,
-    "timeYear": 675,
+    "timeDay": 499,
+    "timeWeek": 585,
+    "timeMonth": 615,
+    "timeYear": 674,
     "dailyMinutesDown": {
       "2025-06-27": 28,
       "2025-07-29": 46,
@@ -132,7 +132,7 @@
       "2026-04-05": 17,
       "2026-04-09": 55,
       "2026-04-12": 128,
-      "2026-06-09": 7
+      "2026-06-09": 243
     }
   },
   {
